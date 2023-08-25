@@ -104,7 +104,7 @@ body {
 }
 
 .minha-foto {
-    width: 40%;
+    width: 50%;
     border: 7px solid var(--cor-terciaria);
     border-radius: 16px;
 }
